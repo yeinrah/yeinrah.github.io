@@ -1,10 +1,10 @@
 ---
-layout: posts
 title:  "첫 포스팅"
 date:   2020-08-05T14:25:52+09:00
-categories: TIL
-tags:	
-cover:  "/assets/pika.jpg"
+category: TIL
+tags: 
+header:
+  image: /assets/images/pika.jpg
 ---
 
 20200805 기념비적인 첫 포스팅!

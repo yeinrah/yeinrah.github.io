@@ -23,14 +23,12 @@ name                     : "Code-Atelier"
 description              : "개발 초짜의 개발 블로그"
 url                      : "https://code-atelier.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : code-atelier/code-atelier.github.io
+repository               : "code-atelier/code-atelier.github.io"
 teaser                   : "/assets/images/pika.jpg"
 logo                     : "/assets/images/pika_logo.jpg"
 
-header                  : "/assets/images/pika.jpg"
-
-masthead_title           : "개발 블로그"
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "천천히 배워가는 개발 블로그"
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -132,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/code-atelier"
+      url: "https://github.com/code-atelier"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -279,7 +277,19 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      toc: true
-      comments: # true
-      share: true
+      show_date: true
+      comments: false
+      share: false
       related: true
+      toc: true
+      toc_sticky: true
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+github: [metadata]

@@ -1,10 +1,10 @@
 ---
-layout: posts
 title:  "200807 포스팅 오류 해결"
 date:   2020-08-07T14:25:52+09:00
-categories: TIL
-tags:	
-cover:  "/assets/pika.jpg"
+category: TIL
+tags: 
+header:
+  image: /assets/images/pika.jpg
 ---
 
 200805에 첫 포스팅을 작성해서 등록했는데 블로그에서 뜨질 않아서 근 이틀간을 구글링을 하며 골머리를 앓다가 오늘 겨우 해결
