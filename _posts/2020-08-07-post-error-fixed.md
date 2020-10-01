@@ -1,7 +1,7 @@
 ---
 title:  "200807 포스팅 오류 해결"
 date:   2020-08-07T14:25:52+09:00
-category: TIL
+category: ETC
 tags: 
 header:
   image: /assets/images/pika.jpg
