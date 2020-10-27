@@ -2,7 +2,7 @@
 title:  "첫 포스팅"
 date:   2020-08-05T14:25:52+09:00
 category: ETC
-tags: 
+tags: 블로그
 header:
   image: /assets/images/pika.jpg
 ---
