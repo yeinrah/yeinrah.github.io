@@ -1,8 +1,8 @@
 ---
-title:  "SSAFY와 우아한 테크 코스 지원 준비"
-date:   2020-10-27T14:25:52+09:00
+title: "SSAFY와 우아한 테크 코스 지원 준비"
+date: 2020-10-27T14:25:52+09:00
 category: ETC
-tags: ssafy, 우테코
+tags: SSAFY 우테코
 header:
   image: /assets/images/pika.jpg
 ---
