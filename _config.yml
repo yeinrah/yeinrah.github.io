@@ -19,11 +19,11 @@ locale                   : "ko-KR"
 title                    : "천천히 배워가는 개발 블로그"
 title_separator          : "-"
 subtitle                 : #
-name                     : "Code-Atelier"
+name                     : "Yein Rah"
 description              : "개발 초짜의 개발 블로그"
-url                      : "https://code-atelier.github.io"
+url                      : "https://yeinrah.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "code-atelier/code-atelier.github.io"
+repository               : "yeinrah/yeinrah.github.io"
 teaser                   : "/assets/images/pika.jpg"
 logo                     : "/assets/images/pika_logo.jpg"
 
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Code-Atelier"
+  name             : "Yein Rah"
   avatar           : "/assets/images/pika_logo.jpg"
   bio              : "Always Learning"
   location         : "On Earth"
@@ -105,7 +105,7 @@ author:
       # url: "mailto:yein.rah@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://code-atelier.github.io"
+      # url: "https://yeinrah.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/code-atelier"
+      url: "https://github.com/yeinrah"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/code-atelier"
+      url: "https://github.com/yeinrah"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
